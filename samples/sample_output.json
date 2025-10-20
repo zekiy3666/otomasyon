@@ -1,0 +1,111 @@
+{
+  "prompts": [
+    {
+      "narrative": "Goal: Promote sustainable living\nGoal: Highlight smart thermostat\nAudience: Homeowners, Eco-conscious families\nCTA: Download the free efficiency checklist",
+      "style": "Tone: Friendly and informative",
+      "call_to_action": "Download the free efficiency checklist",
+      "references": "BROLL01: Family adjusting smart thermostat [tags: home, energy, family]\nBROLL02: Solar panels on suburban roof [tags: solar, eco, exterior]\nAUDIO01: Upbeat acoustic background track [tags: music, acoustic]"
+    },
+    {
+      "project_name": "Eco Home Energy Tips",
+      "visual_theme": "Promote sustainable living, Highlight smart thermostat",
+      "audience": "Homeowners, Eco-conscious families",
+      "assets": "BROLL01: Family adjusting smart thermostat [tags: home, energy, family]; BROLL02: Solar panels on suburban roof [tags: solar, eco, exterior]; AUDIO01: Upbeat acoustic background track [tags: music, acoustic]"
+    }
+  ],
+  "renders": [
+    "renders/google_veo_3_7094.mp4",
+    "renders/canva_9721.mp4"
+  ],
+  "exports": [
+    "exports/renders/google_veo_3_7094_youtube.mp4",
+    "exports/renders/google_veo_3_7094_instagram_reels.mp4",
+    "exports/renders/google_veo_3_7094_tiktok.mp4",
+    "exports/renders/google_veo_3_7094_facebook_feed.mp4",
+    "exports/renders/canva_9721_youtube.mp4",
+    "exports/renders/canva_9721_instagram_reels.mp4",
+    "exports/renders/canva_9721_tiktok.mp4",
+    "exports/renders/canva_9721_facebook_feed.mp4"
+  ],
+  "seo": {
+    "youtube": "Title: Eco Home Energy Tips | eco home energy tips promote sustainable living\nDescription: Discover Download the free efficiency checklist with insights for youtube. Tone: Friendly and informative. Goals: Promote sustainable living, Highlight smart thermostat.\nTags: ecohomeenergytips, promotesustainableliving, highlightsmartthermostat",
+    "instagram": "Title: Eco Home Energy Tips | eco home energy tips promote sustainable living\nDescription: Discover Download the free efficiency checklist with insights for instagram. Tone: Friendly and informative. Goals: Promote sustainable living, Highlight smart thermostat.\nTags: ecohomeenergytips, promotesustainableliving, highlightsmartthermostat",
+    "tiktok": "Title: Eco Home Energy Tips | eco home energy tips promote sustainable living\nDescription: Discover Download the free efficiency checklist with insights for tiktok. Tone: Friendly and informative. Goals: Promote sustainable living, Highlight smart thermostat.\nTags: ecohomeenergytips, promotesustainableliving, highlightsmartthermostat",
+    "facebook": "Title: Eco Home Energy Tips | eco home energy tips promote sustainable living\nDescription: Discover Download the free efficiency checklist with insights for facebook. Tone: Friendly and informative. Goals: Promote sustainable living, Highlight smart thermostat.\nTags: ecohomeenergytips, promotesustainableliving, highlightsmartthermostat"
+  },
+  "schedule": [
+    {
+      "platform": "youtube",
+      "publish_time": "2025-10-20T09:00:00",
+      "reminder_time": "2025-10-20T08:30:00"
+    },
+    {
+      "platform": "instagram",
+      "publish_time": "2025-10-20T11:00:00",
+      "reminder_time": "2025-10-20T10:30:00"
+    },
+    {
+      "platform": "tiktok",
+      "publish_time": "2025-10-20T13:00:00",
+      "reminder_time": "2025-10-20T12:30:00"
+    },
+    {
+      "platform": "facebook",
+      "publish_time": "2025-10-20T15:00:00",
+      "reminder_time": "2025-10-20T14:30:00"
+    }
+  ],
+  "engagement": [
+    {
+      "platform": "youtube",
+      "action": "Respond to top comments",
+      "scheduled_for": "2025-10-21T09:00:00"
+    },
+    {
+      "platform": "youtube",
+      "action": "Share highlights on stories",
+      "scheduled_for": "2025-10-20T21:00:00"
+    },
+    {
+      "platform": "instagram",
+      "action": "Respond to top comments",
+      "scheduled_for": "2025-10-21T11:00:00"
+    },
+    {
+      "platform": "instagram",
+      "action": "Share highlights on stories",
+      "scheduled_for": "2025-10-20T23:00:00"
+    },
+    {
+      "platform": "tiktok",
+      "action": "Respond to top comments",
+      "scheduled_for": "2025-10-21T13:00:00"
+    },
+    {
+      "platform": "tiktok",
+      "action": "Share highlights on stories",
+      "scheduled_for": "2025-10-21T01:00:00"
+    },
+    {
+      "platform": "facebook",
+      "action": "Respond to top comments",
+      "scheduled_for": "2025-10-21T15:00:00"
+    },
+    {
+      "platform": "facebook",
+      "action": "Share highlights on stories",
+      "scheduled_for": "2025-10-21T03:00:00"
+    }
+  ],
+  "analytics": {
+    "youtube_expected_views": 5000,
+    "instagram_expected_views": 6000,
+    "tiktok_expected_views": 7000,
+    "facebook_expected_views": 8000,
+    "youtube_engagement_rate": 4.5,
+    "instagram_engagement_rate": 5.5,
+    "tiktok_engagement_rate": 6.5,
+    "facebook_engagement_rate": 7.5
+  },
+  "publication_log": "youtube: 2025-10-20T09:00:00\ninstagram: 2025-10-20T11:00:00\ntiktok: 2025-10-20T13:00:00\nfacebook: 2025-10-20T15:00:00"
+}
