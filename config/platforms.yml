@@ -1,0 +1,26 @@
+platforms:
+  youtube:
+    must_include: Tutorial, Subscribe Now
+  instagram:
+    must_include: Behind the scenes
+  tiktok:
+    must_include: Challenge
+  facebook:
+    must_include: Community spotlight
+requirements:
+  youtube:
+    title_limit: 100
+    description_limit: 5000
+    hashtag_limit: 15
+  instagram:
+    title_limit: 150
+    description_limit: 2200
+    hashtag_limit: 30
+  tiktok:
+    title_limit: 150
+    description_limit: 2200
+    hashtag_limit: 33
+  facebook:
+    title_limit: 100
+    description_limit: 63206
+    hashtag_limit: 30
